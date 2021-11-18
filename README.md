@@ -13,8 +13,8 @@ https://www.theodinproject.com/
 https://fullstackopen.com/en/
 
 **Wes Bos**
-https://wesbos.com/courses
-https://javascript30.com/
+* https://wesbos.com/courses
+* https://javascript30.com/
 
 
 
