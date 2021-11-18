@@ -1,7 +1,7 @@
 # learning
 Learning material and notes.
 
-**COURSES**
+## Courses
 
 **CS50x**
 https://cs50.harvard.edu/x/2021/
@@ -17,7 +17,7 @@ https://wesbos.com/courses
 
 
 
-**TOOLS**
+## Tools
 
 **Scrimba**
 https://scrimba.com/
