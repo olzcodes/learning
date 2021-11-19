@@ -6,6 +6,9 @@ Learning material and notes.
 **CS50x**
 https://cs50.harvard.edu/x/2021/
 
+**The Missing Semester**
+https://missing.csail.mit.edu/
+
 **The Odin Project**
 https://www.theodinproject.com/
 
