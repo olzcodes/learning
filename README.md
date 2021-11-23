@@ -19,7 +19,8 @@ https://fullstackopen.com/en/
 * https://wesbos.com/courses
 * https://javascript30.com/
 
-
+**Learn React for free (updated)**
+https://scrimba.com/learn/learnreact
 
 ## Tools
 
