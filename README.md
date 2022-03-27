@@ -15,6 +15,9 @@ https://www.theodinproject.com/
 **Full Stack Open**
 https://fullstackopen.com/en/
 
+**React docs (official)**
+https://beta.reactjs.org/learn
+
 **Wes Bos**
 * https://wesbos.com/courses
 * https://javascript30.com/
