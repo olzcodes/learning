@@ -38,5 +38,5 @@ https://scrimba.com/
 * https://reactjsexample.com/
 * https://reactjsexample.com/mitosis-write-components-once-run-everywhere/
 
-**Balsamiq** (for wireframes)
+**Balsamiq**
 https://balsamiq.com/wireframes/
