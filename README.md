@@ -25,6 +25,9 @@ https://beta.reactjs.org/learn
 **Learn React for free**
 https://scrimba.com/learn/learnreact
 
+**Cloud Academy**
+https://cloudacademy.com/
+
 **KodeKloud**
 https://kodekloud.com/
 
