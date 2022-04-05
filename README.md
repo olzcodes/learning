@@ -46,3 +46,9 @@ https://scrimba.com/
 
 **Balsamiq**
 https://balsamiq.com/wireframes/
+
+
+## Developer Resources
+
+**MDN**
+https://developer.mozilla.org/en-US/
