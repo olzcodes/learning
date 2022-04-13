@@ -22,6 +22,9 @@ https://beta.reactjs.org/learn
 * https://wesbos.com/courses
 * https://javascript30.com/
 
+**Jonas Schmedtmann**
+https://www.udemy.com/course/the-complete-javascript-course/
+
 **Learn React for free**
 https://scrimba.com/learn/learnreact
 
