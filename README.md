@@ -31,6 +31,12 @@ https://scrimba.com/learn/learnreact
 **MongoDB by Stephen Grider**
 https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/
 
+**RHCSA - Red Hat Certified System Administrator**
+https://www.redhat.com/en/services/certification/rhcsa
+
+**CKA - Certified Kubernetes Administrator**
+https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+
 **Cloud Academy**
 https://cloudacademy.com/
 
