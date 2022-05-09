@@ -12,6 +12,9 @@ https://missing.csail.mit.edu/
 **The Odin Project**
 https://www.theodinproject.com/
 
+** Learn Vanilla JS - repository from Snipcart
+https://github.com/snipcart/learn-vanilla-js
+
 **Full Stack Open**
 https://fullstackopen.com/en/
 
