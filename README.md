@@ -28,6 +28,9 @@ https://beta.reactjs.org/learn
 * https://wesbos.com/courses
 * https://javascript30.com/
 
+**Javascript Testing Best Practices**
+https://github.com/goldbergyoni/javascript-testing-best-practices
+
 **Jonas Schmedtmann**
 https://www.udemy.com/course/the-complete-javascript-course/
 
