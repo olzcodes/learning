@@ -21,7 +21,7 @@ https://javascript.info/
 **Javascript Testing Best Practices**
 https://github.com/goldbergyoni/javascript-testing-best-practices
 
-**Jonas Schmedtmann - The Complete JavaScript Course 2022: From Zero to Expert!**
+**Jonas Schmedtmann - The Complete JavaScript Course 2022**
 https://www.udemy.com/course/the-complete-javascript-course/
 
 **Wes Bos**
@@ -30,7 +30,7 @@ https://javascript30.com/
 **Full Stack Open**
 https://fullstackopen.com/en/
 
-**Maximillian Schwarzmuller - React - The Complete Guide (incl Hooks, React Router, Redux)**
+**Maximillian Schwarzmuller - React - The Complete Guide**
 https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 
 **React docs (official)**
