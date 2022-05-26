@@ -18,21 +18,23 @@ https://github.com/snipcart/learn-vanilla-js
 **The Modern JavaScript Tutorial**
 https://javascript.info/
 
-**Full Stack Open**
-https://fullstackopen.com/en/
-
-**React docs (official)**
-https://beta.reactjs.org/learn
-
-**Wes Bos**
-* https://wesbos.com/courses
-* https://javascript30.com/
-
 **Javascript Testing Best Practices**
 https://github.com/goldbergyoni/javascript-testing-best-practices
 
-**Jonas Schmedtmann**
+**Jonas Schmedtmann - The Complete JavaScript Course 2022: From Zero to Expert!**
 https://www.udemy.com/course/the-complete-javascript-course/
+
+**Wes Bos**
+https://javascript30.com/
+
+**Full Stack Open**
+https://fullstackopen.com/en/
+
+**Maximillian Schwarzmuller - React - The Complete Guide (incl Hooks, React Router, Redux)**
+https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+
+**React docs (official)**
+https://beta.reactjs.org/learn
 
 **Learn React for free**
 https://scrimba.com/learn/learnreact
@@ -58,9 +60,6 @@ https://buildspace.so/
 
 ## Tools
 
-**Scrimba**
-https://scrimba.com/
-
 **React JS Examples**
 * https://reactjsexample.com/
 * https://reactjsexample.com/mitosis-write-components-once-run-everywhere/
@@ -74,8 +73,8 @@ https://balsamiq.com/wireframes/
 **MDN**
 https://developer.mozilla.org/en-US/
 
-**Material UI - React Component Library**
-https://mui.com/
-
 **Bootstrap**
 https://getbootstrap.com/
+
+**Material UI - React Component Library**
+https://mui.com/
