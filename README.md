@@ -67,6 +67,14 @@ https://buildspace.so/
 **Balsamiq**
 https://balsamiq.com/wireframes/
 
+**htmx**
+https://htmx.org/
+
+**Alpine JS**
+https://alpinejs.dev/
+
+**Tailwind CSS**
+https://tailwindcss.com/
 
 ## Developer Resources
 
