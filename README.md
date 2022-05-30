@@ -42,6 +42,9 @@ https://scrimba.com/learn/learnreact
 **MongoDB by Stephen Grider**
 https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/
 
+**University of Helsinki - DevOps with Kubernetes**
+https://devopswithkubernetes.com/
+
 **RHCSA - Red Hat Certified System Administrator**
 https://www.redhat.com/en/services/certification/rhcsa
 
