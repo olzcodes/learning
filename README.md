@@ -92,5 +92,7 @@ https://mui.com/
 
 **Blogs**
 
-https://martinfowler.com/
+https://blog.codinghorror.com/
 https://www.joelonsoftware.com/
+https://martinfowler.com/
+
