@@ -89,3 +89,8 @@ https://getbootstrap.com/
 
 **Material UI - React Component Library**
 https://mui.com/
+
+**Blogs**
+
+https://martinfowler.com/
+https://www.joelonsoftware.com/
