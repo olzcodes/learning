@@ -33,6 +33,9 @@ https://fullstackopen.com/en/
 **Maximillian Schwarzmuller - React - The Complete Guide**
 https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 
+**Kent C. Dodds - Epic React**
+https://epicreact.dev/
+
 **React docs (official)**
 https://beta.reactjs.org/learn
 
@@ -89,6 +92,12 @@ https://getbootstrap.com/
 
 **Material UI - React Component Library**
 https://mui.com/
+
+**Tailwind CSS**
+https://tailwindcss.com/
+
+**Daisy UI**
+https://daisyui.com/
 
 **Jonas Schmedtmann resources page**
 https://codingheroes.io/resources/
