@@ -90,7 +90,10 @@ https://getbootstrap.com/
 **Material UI - React Component Library**
 https://mui.com/
 
-**Blogs**
+**Jonas Schmedtmann resources page**
+https://codingheroes.io/resources/
+
+## logs
 
 https://blog.codinghorror.com/
 
