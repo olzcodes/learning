@@ -93,7 +93,7 @@ https://mui.com/
 **Jonas Schmedtmann resources page**
 https://codingheroes.io/resources/
 
-## logs
+## Blogs
 
 https://blog.codinghorror.com/
 
