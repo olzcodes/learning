@@ -93,6 +93,9 @@ https://mui.com/
 **Blogs**
 
 https://blog.codinghorror.com/
+
 https://www.joelonsoftware.com/
+
 https://martinfowler.com/
 
+https://mattsegal.dev/
