@@ -3,10 +3,10 @@ Learning material and notes.
 
 ## Courses
 
-**CS50x**
+**Harvard University - CS50x**
 https://cs50.harvard.edu/x/2021/
 
-**The Missing Semester**
+**MIT - The Missing Semester**
 https://missing.csail.mit.edu/
 
 **The Odin Project**
@@ -47,6 +47,12 @@ https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/
 
 **University of Helsinki - DevOps with Kubernetes**
 https://devopswithkubernetes.com/
+
+**University of Helsinki - Java Programming**
+https://java-programming.mooc.fi/
+
+**Stanford University - Java Programming**
+https://see.stanford.edu/Course/CS106A/194
 
 **RHCSA - Red Hat Certified System Administrator**
 https://www.redhat.com/en/services/certification/rhcsa
