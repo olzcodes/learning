@@ -3,10 +3,10 @@ Learning material and notes.
 
 ## Courses
 
-**Harvard University - CS50x**
+**CS50x - Harvard University**
 https://cs50.harvard.edu/x/2021/
 
-**MIT - The Missing Semester**
+**The Missing Semester - MIT**
 https://missing.csail.mit.edu/
 
 **The Odin Project**
@@ -27,7 +27,7 @@ https://www.udemy.com/course/the-complete-javascript-course/
 **Wes Bos**
 https://javascript30.com/
 
-**Full Stack Open**
+**Full Stack Open - University of Helsinki**
 https://fullstackopen.com/en/
 
 **Maximillian Schwarzmuller - React - The Complete Guide**
@@ -45,10 +45,10 @@ https://scrimba.com/learn/learnreact
 **MongoDB by Stephen Grider**
 https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/
 
-**University of Helsinki - DevOps with Kubernetes**
+**DevOps with Kubernetes - University of Helsinki**
 https://devopswithkubernetes.com/
 
-**University of Helsinki - Java Programming**
+**Java Programming - University of Helsinki**
 https://java-programming.mooc.fi/
 
 **Stanford University - Java Programming**
