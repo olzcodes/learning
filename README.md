@@ -48,6 +48,9 @@ https://beta.reactjs.org/learn
 **Learn React for free**
 https://scrimba.com/learn/learnreact
 
+**TypeScript Official Docs**
+https://www.typescriptlang.org/
+
 **MongoDB by Stephen Grider**
 https://www.udemy.com/course/the-complete-developers-guide-to-mongodb/
 
@@ -96,6 +99,7 @@ https://alpinejs.dev/
 
 **Tailwind CSS**
 https://tailwindcss.com/
+
 
 ## Developer Resources
 
